@@ -1,2 +1,3 @@
-esta es un ejemplo de texto
-tengo 23 años aproximadamente
+esta es un ejemplo de historia de vida
+tengo 21 años aproximadamente
+me gusta estudiiar progrmacion
