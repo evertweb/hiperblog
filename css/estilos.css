@@ -18,3 +18,8 @@ body {
     text-align: center;
     font-weight: bold;
 }
+footer{
+    background: attachment 0;;
+    text-decoration: double;
+    font-family: Arial, Helvetica, sans-serif;
+}
